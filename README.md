@@ -2,7 +2,7 @@
   <h1 align="center">Salve! Eu sou o <a href="https://www.linkedin.com/in/gustavo-lopes-3a255117b/">Gustavo Lopes</a> 🤙</h1>
   <p align="center">💻 Estudo Análise e Desenvolvimento de Sistemas na <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC 👾</a> 
   
-  <p align="center">💼 Trabalho como Analista de T.I e Marketplace 🚀</p>
+  <p align="center">💼 Trabalho como Analista 🚀</p>
   </a><br>
 </div>
 
